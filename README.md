@@ -16,3 +16,4 @@ The dataset is found from UCI Machine Learning Repository with link [Wine Qualit
 **Analysis White Wine Quality - Correlation Matrix** with link [Correlation Matrix](https://public.tableau.com/app/profile/weirui.liu/viz/AnalysisWhiteWineQuality-CorrelationMatrix/CorrelationMatrix). \
 **Analysis White Wine Quality Dashboard** with link [Presentation Dashboard](https://public.tableau.com/app/profile/weirui.liu/viz/AnalysisWhiteWineQuality/Presentation).
 
+In case Tableau Public link is not working, check **Analysis White Wine Quality.pdf**.
